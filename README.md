@@ -1,1 +1,1 @@
-This is leaning about all skill
+This is test about learning git
